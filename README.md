@@ -12,7 +12,7 @@ Issues and Pull Requests are greatly appreciated.
 
 ## Questions?
 
-You can start by [opening an issue](https://github.com/agucompsociety/agucomputersociety.github.io/issues/new) describing the problem that you're looking to resolve and we'll go from there.
+You can start by [opening an issue](https://github.com/agucomputersociety/agucomputersociety.github.io/issues/new) describing the problem that you're looking to resolve and we'll go from there.
 
 ## Credits
 
