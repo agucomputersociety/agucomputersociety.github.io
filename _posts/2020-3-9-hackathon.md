@@ -3,7 +3,7 @@ layout: post
 title: Hackathon!
 ---
 
-![Hackathon](https://scontent.fesb4-2.fna.fbcdn.net/v/t1.0-9/s960x960/88336115_2256568354646171_1815731109812502528_o.jpg?_nc_cat=106&_nc_sid=b386c4&_nc_ohc=zb29r5UVgtwAX83mHnJ&_nc_ht=scontent.fesb4-2.fna&_nc_tp=7&oh=2c5164bfdf7fed16ef36222e3828d61d&oe=5E93623D)
+![Hackathon]({{ site.baseurl }}/images/hackathon.jpg)
 
 Hi guys! As the Computer Society Club, we invite you to the hackathon called 
 “Algorithm Hackathon”. Algorithmic thinking is the key for your success in programming, 
@@ -26,4 +26,4 @@ Conteste grup olarak katılmak zorunlu olacak. Eğer bu konulara ilgiliysen, 24 
 eğlenerek öğrenmek istiyorsan, Perşembe gününe kadar kayıt formunu doldurmayı unutma! 
 https://forms.gle/hcoRDE3Yvswr1jKRA
 
-![Schedule](https://scontent.fesb4-2.fna.fbcdn.net/v/t1.0-9/s960x960/89360088_2256569534646053_6307937168199254016_o.jpg?_nc_cat=109&_nc_sid=02d79f&_nc_ohc=9_QVqlSTR1UAX94erjx&_nc_ht=scontent.fesb4-2.fna&_nc_tp=7&oh=b568c38cf76060babcf7b80826d9bef1&oe=5E9726A3)
+![Schedule]({{ site.baseurl }}/images/hackathon_schedule.jpg)
