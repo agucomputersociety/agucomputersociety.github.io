@@ -10,6 +10,12 @@ Issues and Pull Requests are greatly appreciated.
 6. Commit any changes and push everything to the master branch of your GitHub user repository. 
 7. Send a pull request.
 
+## Adding a New Blog Post
+
+Add a new file with the following format `/_posts/{Year}-{Month}-{Day}-{Post Name}.md` to add a new blog post. This [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
+
+You can also add posts in the browser on GitHub.com too! Just hit the + icon in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
+
 ## Questions?
 
 You can start by [opening an issue](https://github.com/agucomputersociety/agucomputersociety.github.io/issues/new) describing the problem that you're looking to resolve and we'll go from there.
