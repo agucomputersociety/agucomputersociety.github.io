@@ -9,7 +9,7 @@ name: AGU Computer Society
 description: A meritocratic, consensus-based computer science community
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://scontent.fasr1-2.fna.fbcdn.net/v/t1.0-9/46806638_1944674415835568_3467245794329886720_n.png?_nc_cat=105&_nc_ohc=1_PtfTV6IaEAX89eb1B&_nc_ht=scontent.fasr1-2.fna&oh=40b7085f4cfcfa1c4739d51adda4bcd0&oe=5EC7E555
+avatar: /images/logo.png
 
 #
 # Flags below are optional
@@ -39,9 +39,7 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url:
+url: https://agucomputersociety.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
